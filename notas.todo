@@ -1,0 +1,12 @@
+Notas a Calculator:
+    ☐ NO DESPLEGAR EN PORTFOLIO DE MOMENTO @critical
+    ✔ Solo puede haber una coma en el número. @done (14-11-15 09:52)
+    ✔ 0 no puede ser el primer número.  @done (13-11-15 21:09)
+    ✔ Al pulsar un boton de operación si ya hay una operacion en marcha se ejecuta  @done (14-11-15 10:30)
+    ✔ Traducir al ingles  @done (15-11-15 12:32)
+    ✔ Fijar a 2 decimales el resultado. @done (14-11-15 11:43)
+    ✔ Ajustar layout a movil iphone 4 @done (19-01-16 17:22)
+    ✔ Background color botones  @done (19-01-16 17:28)
+    ☐ Deshabilitar entrada por teclado.
+    ☐ Despues de una primera operacion al pulsar otra tecla de operacion repite la anterior  (num oprc num = oprc)
+    ☐ no se puede realizar 2 operaciones seguidas.
